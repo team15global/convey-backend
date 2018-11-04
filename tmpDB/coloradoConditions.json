@@ -1,0 +1,308 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "5yqk-p422",
+      "name" : "Medical Marijuana Statistics - Reported Condition",
+      "attribution" : "Colorado Department of Public Health & Environment",
+      "attributionLink" : "http://www.colorado.gov/cs/Satellite/CDPHE-CHEIS/CBON/1251593017044",
+      "averageRating" : 0,
+      "category" : "Health",
+      "createdAt" : 1406745320,
+      "description" : "Medical Marijuana Registry Program Update by County as of April 30, 2014",
+      "displayType" : "table",
+      "downloadCount" : 3302,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1414539053,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 8542801,
+      "provenance" : "official",
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1406745738,
+      "publicationGroup" : 1666165,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1406745325,
+      "rowsUpdatedBy" : "xksg-xhsw",
+      "tableId" : 1666165,
+      "totalTimesRated" : 0,
+      "viewCount" : 940,
+      "viewLastModified" : 1406749364,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 159779460,
+        "name" : "Reported Condition",
+        "dataTypeName" : "text",
+        "fieldName" : "reported_condition",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 21094218,
+        "width" : 316,
+        "cachedContents" : {
+          "non_null" : 8,
+          "largest" : "Severe Pain",
+          "null" : 1,
+          "top" : [ {
+            "item" : "Cachexia",
+            "count" : 20
+          }, {
+            "item" : "Cancer",
+            "count" : 19
+          }, {
+            "item" : "Glaucoma",
+            "count" : 18
+          }, {
+            "item" : "HIV/AIDS",
+            "count" : 17
+          }, {
+            "item" : "Muscle Spasms",
+            "count" : 16
+          }, {
+            "item" : "Seizures",
+            "count" : 15
+          }, {
+            "item" : "Severe Pain",
+            "count" : 14
+          }, {
+            "item" : "Severe Nausea",
+            "count" : 13
+          } ],
+          "smallest" : "Cachexia"
+        },
+        "format" : { }
+      }, {
+        "id" : 159779461,
+        "name" : "Number of Patients Reporting Condition",
+        "dataTypeName" : "number",
+        "fieldName" : "number_of_patients_reporting_condition",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 21094219,
+        "width" : 298,
+        "cachedContents" : {
+          "non_null" : 8,
+          "average" : "18047.375",
+          "largest" : "108635",
+          "null" : 1,
+          "top" : [ {
+            "item" : "1155",
+            "count" : 20
+          }, {
+            "item" : "3454",
+            "count" : 19
+          }, {
+            "item" : "1198",
+            "count" : 18
+          }, {
+            "item" : "679",
+            "count" : 17
+          }, {
+            "item" : "15702",
+            "count" : 16
+          }, {
+            "item" : "2338",
+            "count" : 15
+          }, {
+            "item" : "108635",
+            "count" : 14
+          }, {
+            "item" : "11218",
+            "count" : 13
+          } ],
+          "smallest" : "679",
+          "sum" : "144379"
+        },
+        "format" : { }
+      }, {
+        "id" : 159779462,
+        "name" : "Percent of Patients Reporting Condition - Total is more than 100% as some patients use Marijuana for more than 1 condition",
+        "dataTypeName" : "number",
+        "fieldName" : "percent_of_patients_reporting_condition",
+        "position" : 3,
+        "rdfProperties" : "",
+        "renderTypeName" : "number",
+        "tableColumnId" : 21094220,
+        "width" : 720,
+        "cachedContents" : {
+          "non_null" : 8,
+          "average" : "14.625",
+          "largest" : "94.00",
+          "null" : 1,
+          "top" : [ {
+            "item" : "1.00",
+            "count" : 20
+          }, {
+            "item" : "3.00",
+            "count" : 19
+          }, {
+            "item" : "14.00",
+            "count" : 18
+          }, {
+            "item" : "2.00",
+            "count" : 17
+          }, {
+            "item" : "94.00",
+            "count" : 16
+          } ],
+          "smallest" : "1.00",
+          "sum" : "117.00"
+        },
+        "format" : {
+          "percentScale" : "100",
+          "precisionStyle" : "percentage",
+          "view" : "percent_bar_and_text",
+          "rdf" : "",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Data Quality" : {
+            "Stewardship Plan" : "",
+            "Data Quality Certification" : "",
+            "Applicable Information Quality Guideline Designation" : ""
+          },
+          "Dataset Coverage" : {
+            "Geographic Coverage" : "",
+            "Granularity" : "",
+            "Unit of Analysis" : ""
+          },
+          "Additional Dataset Documentation" : {
+            "Technical Documentation" : "",
+            "Data Dictionary" : "",
+            "Additional Metadata" : ""
+          },
+          "Flood 2013" : {
+            "Content type" : ""
+          },
+          "Geospatial" : {
+            "Horizontal Coordinate System" : "",
+            "Collection Method" : "",
+            "Horizontal Accuracy" : ""
+          },
+          "Data Description" : {
+            "Data Collection Instrument" : "",
+            "Collection Mode" : ""
+          },
+          "Contributing Agency Information" : {
+            "Agency Data Series Page" : "",
+            "Citation" : "Colorado Department of Public Health & Environment",
+            "Agency Program Page" : ""
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        }
+      },
+      "owner" : {
+        "id" : "xksg-xhsw",
+        "displayName" : "April Broome",
+        "screenName" : "April Broome",
+        "type" : "interactive",
+        "flags" : [ "mayBeStoriesCoOwner" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "xksg-xhsw",
+        "displayName" : "April Broome",
+        "screenName" : "April Broome",
+        "type" : "interactive",
+        "flags" : [ "mayBeStoriesCoOwner" ]
+      },
+      "tags" : [ "colorado department of public health & environment", "medical marijuana", "patients", "registry" ],
+      "flags" : [ "default", "restorable", "restorePossibleForType" ]
+    }
+  },
+  "data" : [ [ 1, "EC545058-10DF-4AC6-9574-6DC55E9432F4", 1, 1406720122, "879177", 1406720122, "879177", "{\n}", "Cachexia", "1155", "1.00" ]
+, [ 2, "1B2D2D91-EFD7-4176-B69E-4188F122FECC", 2, 1406720122, "879177", 1406720122, "879177", "{\n}", "Cancer", "3454", "3.00" ]
+, [ 3, "5A2F82C6-5287-42AD-9BB0-08B986A92CDE", 3, 1406720122, "879177", 1406720122, "879177", "{\n}", "Glaucoma", "1198", "1.00" ]
+, [ 4, "10B70AE0-47EC-4C95-AEE0-6F9F8E8835E6", 4, 1406720122, "879177", 1406720122, "879177", "{\n}", "HIV/AIDS", "679", "1.00" ]
+, [ 5, "E23A9BC3-6CC5-426E-A3E7-B8FFE32FED59", 5, 1406720122, "879177", 1406720122, "879177", "{\n}", "Muscle Spasms", "15702", "14.00" ]
+, [ 6, "67A24CAF-E304-4CE9-8A5B-40EA3D6E296B", 6, 1406720122, "879177", 1406720122, "879177", "{\n}", "Seizures", "2338", "2.00" ]
+, [ 7, "0825EF84-E6D5-41B5-B34F-07F6757BA58D", 7, 1406720122, "879177", 1406720122, "879177", "{\n}", "Severe Pain", "108635", "94.00" ]
+, [ 8, "858D540E-A5B5-4093-8ADF-5A6972CE4D69", 8, 1406720122, "879177", 1406720122, "879177", "{\n}", "Severe Nausea", "11218", "1.00" ]
+, [ 9, "6D5D6FEE-49CF-4DC2-BB2D-20C395563DAC", 9, 1406720122, "879177", 1406720122, "879177", "{\n}", null, null, null ]
+ ]
+}
