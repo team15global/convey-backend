@@ -1,23 +1,21 @@
 [
   {
-    "chemotherapy":  {
-      "strains" : [
+    "chemotherapy": {
+      "isCuredBy": [
         "Hibisbus Sunrise"
       ]
     }
   },
-  
   {
-    "glaucoma" : {
-      "strains" : [
+    "glaucoma": {
+      "isCuredBy": [
         "Sunburn"
       ]
     }
   },
-
   {
     "muscleSpasms": {
-      "strains" : [
+      "isCuredBy": [
         "Kush IV",
         "Purple Romulan",
         "Very Berry",
@@ -29,30 +27,27 @@
         "ACDC",
         "AK-47"
       ]
-    }  
+    }
   },
-
   {
-    "antiEpileptic" : {
-      "strains" : [
+    "antiEpileptic": {
+      "isCuredBy": [
         "Cannatonic"
       ]
     }
   },
-
   {
-    "eyePressure" : {
-      "strains" : [
+    "eyePressure": {
+      "isCuredBy": [
         "S.A.G.E #20",
         "Orange Bud",
         "AK-47"
       ]
     }
   },
-
   {
-    "nausea" : {
-      "strains" : [
+    "nausea": {
+      "isCuredBy": [
         "Strawberry Creme",
         "Wet Dream",
         "Kush X",
@@ -68,10 +63,9 @@
       ]
     }
   },
-
   {
-    "anxiety" : {
-      "strains" : [
+    "anxiety": {
+      "isCuredBy": [
         "Kush X",
         "Kush VII",
         "Kush IV",
@@ -86,10 +80,9 @@
       ]
     }
   },
-
   {
-    "stress" : {
-      "strains" : [
+    "stress": {
+      "isCuredBy": [
         "Strawberry Creme",
         "Wet Dream",
         "Strawberry Creme",
@@ -152,10 +145,9 @@
       ]
     }
   },
-
   {
-    "insomnia" : {
-      "strains" : [
+    "insomnia": {
+      "isCuredBy": [
         "Boss Hogg",
         "Raskal OG",
         "Kush XIII",
@@ -201,10 +193,9 @@
       ]
     }
   },
-
   {
-    "headaches" : {
-      "strains" : [
+    "headaches": {
+      "isCuredBy": [
         "Jack 22",
         "True OG",
         "Red Cherry Berry",
@@ -239,16 +230,14 @@
       ]
     }
   },
-
   {
-    "pain" : {
-      "strains" : "All of Them ..."
+    "pain": {
+      "isCuredBy": "All of Them ..."
     }
   },
-
   {
-    "inflammation" : {
-      "strains" : [
+    "inflammation": {
+      "isCuredBy": [
         "Sour Tangie",
         "Grape Diesel",
         "Finola Kush",
@@ -264,10 +253,9 @@
       ]
     }
   },
-
   {
-    "fatigue" : {
-      "strains" : [
+    "fatigue": {
+      "isCuredBy": [
         "Strawberry Creme",
         "Wet Dream",
         "Strawberry OG",
@@ -311,10 +299,9 @@
       ]
     }
   },
-
   {
-    "appetite" : {
-      "strains" : [
+    "appetite": {
+      "isCuredBy": [
         "Wet Dream",
         "Halley's Comet",
         "Lodi OG",
@@ -355,8 +342,8 @@
     }
   },
   {
-    "depression" : {
-      "strains" : [
+    "depression": {
+      "isCuredBy": [
         "Blueberry",
         "Chem 4 OG",
         "Bruce Banner",
@@ -438,5 +425,4 @@
       ]
     }
   }
-
 ]
