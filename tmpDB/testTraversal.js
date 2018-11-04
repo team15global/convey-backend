@@ -1,3 +1,8 @@
 const allStrains = require('./cannabis.json')
 
-console.log(allStrains.map(ea => ea.Strain))
+
+// const nameArray = allStrains.map(ea => ea.Strain)
+// const highestRating = allStrains.filter(ea => parseFloat(ea.Rating) === 5.0)
+// const totalAmt = allStrains.length;
+
+// console.log(highestRating.map(ea => ea.Strain))
