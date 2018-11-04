@@ -1,0 +1,442 @@
+[
+  {
+    "chemotherapy":  {
+      "isCuredBy" : [
+        "Hibisbus Sunrise"
+      ]
+    }
+  },
+  
+  {
+    "glaucoma" : {
+      "isCuredBy" : [
+        "Sunburn"
+      ]
+    }
+  },
+
+  {
+    "muscleSpasms": {
+      "isCuredBy" : [
+        "Kush IV",
+        "Purple Romulan",
+        "Very Berry",
+        "Cookie Wreck",
+        "Grape God",
+        "Otto",
+        "Blue Tahoe",
+        "Shark Shock",
+        "ACDC",
+        "AK-47"
+      ]
+    }  
+  },
+
+  {
+    "antiEpileptic" : {
+      "isCuredBy" : [
+        "Cannatonic"
+      ]
+    }
+  },
+
+  {
+    "eyePressure" : {
+      "isCuredBy" : [
+        "S.A.G.E #20",
+        "Orange Bud",
+        "AK-47"
+      ]
+    }
+  },
+
+  {
+    "nausea" : {
+      "isCuredBy" : [
+        "Strawberry Creme",
+        "Wet Dream",
+        "Kush X",
+        "Kush XIII",
+        "Blackberry Kush",
+        "Sour Banana Sherbet",
+        "S.A.G.E #20",
+        "Sour Willie",
+        "Death Star",
+        "NightShade",
+        "Larry OG",
+        "Blackwater"
+      ]
+    }
+  },
+
+  {
+    "anxiety" : {
+      "isCuredBy" : [
+        "Kush X",
+        "Kush VII",
+        "Kush IV",
+        "Halley's Comet",
+        "East Coast Sour Diesel",
+        "Atlantic Sunrise",
+        "Finola Kush",
+        "NightShade",
+        "Larry OG",
+        "Blueberry #31",
+        "Blueberry #28"
+      ]
+    }
+  },
+
+  {
+    "stress" : {
+      "isCuredBy" : [
+        "Strawberry Creme",
+        "Wet Dream",
+        "Strawberry Creme",
+        "Purple Crack",
+        "Green Crack",
+        "Chocolope",
+        "Boss Hogg",
+        "Sour Tangie",
+        "Grape Diesel",
+        "Raskal OG",
+        "Strawberry Cough",
+        "Pineapple Express",
+        "Rare Darkness",
+        "Purple Romulan",
+        "Halley's Comet",
+        "Lodi OG",
+        "Bruce Banner",
+        "Blackberry Kush",
+        "Very Berry",
+        "Cookie Wreck",
+        "Bubble Gum",
+        "Atlantic Sunrise",
+        "Grape God",
+        "Purple Urkle",
+        "Super Silver Haze",
+        "Granddaddy Purp",
+        "Cheese",
+        "Skunk #1",
+        "Super Skunk",
+        "Northern Lights",
+        "Haze",
+        "Jack Herer",
+        "Afghani",
+        "G13",
+        "Durban Poison",
+        "ChemDawg",
+        "Super Lemon Haze",
+        "#Hash Plant",
+        "Hindu Kush",
+        "Sour Banana Sherbet",
+        "Sour OG",
+        "SnowDawg",
+        "Fuma Con Dios",
+        "White Widow",
+        "S.A.G.E #20",
+        "Blue Dream",
+        "Otto",
+        "Juanita la Lagrimosa",
+        "Haleigh's Hope",
+        "Harlequin",
+        "Canna-Tsu",
+        "Sour Willie",
+        "Death Star",
+        "Platinum Girl Scout Cookies",
+        "Dream Police",
+        "Sour Diesel",
+        "Bubba Berry",
+        "Lavender",
+        "Hibisbus Sunrise"
+      ]
+    }
+  },
+
+  {
+    "insomnia" : {
+      "isCuredBy" : [
+        "Boss Hogg",
+        "Raskal OG",
+        "Kush XIII",
+        "Lodi OG",
+        "Bruce Banner",
+        "Blackberry Kush",
+        "Cookie Wreck",
+        "Bubble Gum",
+        "Grape God",
+        "Purple Urkle",
+        "Granddaddy Purp",
+        "Cheese",
+        "Skunk #1",
+        "Super Skunk",
+        "Northern Lights",
+        "Afghani",
+        "G13",
+        "ChemDawg",
+        "#Hash Plant",
+        "Hindu Kush",
+        "Wappa",
+        "Sour Banana Sherbet",
+        "Fuma Con Dios",
+        "Haleigh's Hope",
+        "Death Star",
+        "Dream Police",
+        "Bubba Berry",
+        "Lavender",
+        "Blue Widow 1",
+        "Pineapple Chunk",
+        "True OG",
+        "Violator Kush",
+        "NightShade",
+        "Larry OG",
+        "Chem 4 OG",
+        "Blueberry",
+        "Blueberry #32",
+        "Grape Ape",
+        "Booker",
+        "Blackwater",
+        "Bubble Gum#05",
+        "OG Kush"
+      ]
+    }
+  },
+
+  {
+    "headaches" : {
+      "isCuredBy" : [
+        "Jack 22",
+        "True OG",
+        "Red Cherry Berry",
+        "Flo",
+        "Strawberry Cough",
+        "Kush IV",
+        "Pineapple Express",
+        "Rare Darkness",
+        "East Coast Sour Diesel",
+        "Purple Urkle",
+        "Super Silver Haze",
+        "Northern Lights",
+        "G13",
+        "Durban Poison",
+        "Super Lemon Haze",
+        "#Hash Plant",
+        "Sour OG",
+        "SnowDawg",
+        "White Widow",
+        "Alberts Super Silver Sour Diesel",
+        "Blue Dream",
+        "Otto",
+        "Canna-Tsu",
+        "Platinum Girl Scout Cookies",
+        "Sour Diesel",
+        "Bubba Berry",
+        "Lavender",
+        "Jack 22",
+        "True OG",
+        "Red Cherry Berry",
+        "Flo"
+      ]
+    }
+  },
+
+  {
+    "pain" : {
+      "isCuredBy" : "All of Them ..."
+    }
+  },
+
+  {
+    "inflammation" : {
+      "isCuredBy" : [
+        "Sour Tangie",
+        "Grape Diesel",
+        "Finola Kush",
+        "Wappa",
+        "Otto",
+        "Juanita la Lagrimosa",
+        "Haleigh's Hope",
+        "Harlequin",
+        "Canna-Tsu",
+        "Shark Shock",
+        "ACDC",
+        "Cannatonic"
+      ]
+    }
+  },
+
+  {
+    "fatigue" : {
+      "isCuredBy" : [
+        "Strawberry Creme",
+        "Wet Dream",
+        "Strawberry OG",
+        "Purple Crack",
+        "Green Crack",
+        "Chocolope",
+        "Sour Tangie",
+        "Grape Diesel",
+        "Raskel OG",
+        "Strawberry Cough",
+        "Pineapple Express",
+        "Halley's Comet",
+        "East Coast Sour Diesel",
+        "Bruce Banner",
+        "Very Berry",
+        "Atlantic Sunrise",
+        "Super Silver Haze",
+        "Haze",
+        "Jack Herer",
+        "Durban Poison",
+        "Super Lemon Haze",
+        "Sour OG",
+        "SnowDawg",
+        "White Widow",
+        "S.A.G.E #20",
+        "Alberts Super Silver Sour Diesel",
+        "Blue Dream",
+        "Juanita la Lagrimosa",
+        "Haleigh's Hope",
+        "Harlequin",
+        "Sour Diesel",
+        "Gorilla Glue #4",
+        "A Orange",
+        "Golden Goat",
+        "Jack 22",
+        "Frosty Kush",
+        "Girl Scout Cookies",
+        "Lemon G",
+        "Nigerian Haze",
+        "Flo"
+      ]
+    }
+  },
+
+  {
+    "appetite" : {
+      "isCuredBy" : [
+        "Wet Dream",
+        "Halley's Comet",
+        "Lodi OG",
+        "Bubble Gum",
+        "Granddaddy Purp",
+        "Cheese",
+        "Skunk #1",
+        "Super Skunk",
+        "Haze",
+        "Jack Herer",
+        "Finola Kush",
+        "Afghani",
+        "ChemDawg",
+        "#Hash Plant",
+        "Hindu Kush",
+        "Sour Willie",
+        "Platinum Girl Scout Cookies",
+        "Dream Police",
+        "Blueberry Silvertip",
+        "Gorilla Glue #4",
+        "A Orange",
+        "Pineapple Chunk",
+        "Taffie",
+        "Red Cherry Berry",
+        "Pineapple Shock",
+        "NightShade",
+        "Larry OG",
+        "Chem 4 OG",
+        "Blueberry",
+        "Blueberry #32",
+        "Blueberry #31",
+        "Grape Ape",
+        "Booker",
+        "Blackwater",
+        "Bubble Gum#05",
+        "OG Kush"
+      ]
+    }
+  },
+  {
+    "depression" : {
+      "isCuredBy" : [
+        "Blueberry",
+        "Chem 4 OG",
+        "Bruce Banner",
+        "Jack Herer",
+        "Lavender",
+        "Bubble Gum#05",
+        "ChemDawg",
+        "Harlequin",
+        "Wappa",
+        "Blackberry Kush",
+        "Strawberry Cough",
+        "Kush X",
+        "Kush IV",
+        "Rare Darkness",
+        "Purple Romulan",
+        "Lodi OG",
+        "East Coast Sour Diesel",
+        "Bruce Banner",
+        "Blackberry Kush",
+        "Very Berry",
+        "Bubble Gum",
+        "Atlantic Sunrise",
+        "Grape God",
+        "Purple Urkle",
+        "Super Silver Haze",
+        "Grandaddy Purp",
+        "Cheese",
+        "Skunk #1",
+        "Super Skunk",
+        "Northern Lights",
+        "Haze",
+        "Jack Herer",
+        "Afghani",
+        "G13",
+        "Durban Poison",
+        "ChemDawg",
+        "Super Lemon Haze",
+        "Hindu Kush",
+        "Wappa",
+        "Sour Banana Sherbet",
+        "Sour OG",
+        "SnowDawg",
+        "Fuma Con Dios",
+        "White Widow",
+        "Blue Dream",
+        "Juanita la Lagrimosa",
+        "Haleigh's Hope",
+        "Harlequin",
+        "Canna-Tsu",
+        "Sour Willie",
+        "Death Star",
+        "Platinum Girl Scout Cookies",
+        "Dream Police",
+        "Sour Diesel",
+        "Bubba Berry",
+        "Lavender",
+        "Hibisbus Sunrise",
+        "Blueberry Silvertip",
+        "Gorilla Glue #4",
+        "A Orange",
+        "Jack 22",
+        "Frosty Kush",
+        "Girl Scout Cookies",
+        "True OG",
+        "Taggie",
+        "Red Cherry Berry",
+        "Violator Kush",
+        "Chem 4 OG",
+        "Blueberry",
+        "Shark Shock",
+        "ACDC",
+        "Blueberry #31",
+        "Blueberry #28",
+        "Grape Ape",
+        "Lemon G",
+        "Nigerian Haze",
+        "Lemon G",
+        "Nigerian Haze"
+      ]
+    }
+  }
+
+]
